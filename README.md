@@ -1,2 +1,2 @@
-# REPOSITÓRIO DO DESAFIO
-Desafio do Projeto sobre GitHub
+# DESAFIO DO PROJETO SOBRE GITHUB
+Repositório do Desafio
